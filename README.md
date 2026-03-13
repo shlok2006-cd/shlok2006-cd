@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlok2006-cd" alt="shlok2006-cd" /></a> </p>
 
-- 🔭 I’m currently working on [Room-Finder](https://github.com/shlok2006-cd/Room-Finder)
-
 - 🌱 I’m currently learning **Full Stack Web development and AI/ML**
 
 - 📫 How to reach me **shlok081bct@lec.edu.np**
